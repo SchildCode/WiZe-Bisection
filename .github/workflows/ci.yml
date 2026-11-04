@@ -1,0 +1,4 @@
+- name: Compile and test via Makefile
+      run: |
+        make
+        ./run_me
